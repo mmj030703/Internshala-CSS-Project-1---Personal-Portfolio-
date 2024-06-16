@@ -3,8 +3,8 @@
 ### This is my Personal Portfolio made using HTML & CSS.
 
 ## Live
-- [Live Link](https://mmj030703.github.io/Internshala-Assignment-2---Blog-App-using-HTML-CSS/index.html)  
-- [Github Link](https://github.com/mmj030703/Internshala-Assignment-2---Blog-App-using-HTML-CSS)
+- [Live Link](https://mmj030703.github.io/Internshala-CSS-Project-1---Personal-Portfolio-/)  
+- [Github Link](https://github.com/mmj030703/Internshala-CSS-Project-1---Personal-Portfolio-)
 
 ## Features
 - Clean & Good looking UI
